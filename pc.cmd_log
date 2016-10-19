@@ -1,0 +1,1 @@
+vhdtdtfi -prj procesadormonociclo -o C:/Users/Diego/Desktop/procesadormonociclo/pc.vhi -module pc -template C:/Xilinx/14.4/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work pc.vhd 

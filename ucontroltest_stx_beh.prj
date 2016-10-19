@@ -1,0 +1,2 @@
+vhdl isim_temp "ucontrol.vhd"
+vhdl isim_temp "ucontroltest.vhd"

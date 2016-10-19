@@ -1,0 +1,20 @@
+EN seu NULL C:/Users/Diego/Desktop/procesadormonociclo/seu.vhd sub00/vhpl10 1476660425
+AR seu seu1 C:/Users/Diego/Desktop/procesadormonociclo/seu.vhd sub00/vhpl11 1476660426
+AR memoinstru behavioralmemo C:/Users/Diego/Desktop/procesadormonociclo/memoinstru.vhd sub00/vhpl05 1476660418
+AR mpc behavioral "C:/Users/Diego/Desktop/Documentos ING sistemas Mario/7 semestre/Arquictetura de computadores/procesadormonociclo/mpc.vhd" sub00/vhpl01 1476053641
+AR pc pc1 C:/Users/Diego/Desktop/procesadormonociclo/pc.vhd sub00/vhpl13 1476660416
+EN pc NULL C:/Users/Diego/Desktop/procesadormonociclo/pc.vhd sub00/vhpl12 1476660415
+EN procesador NULL C:/Users/Diego/Desktop/procesadormonociclo/procesador.vhd sub00/vhpl16 1476660429
+EN ucontrol NULL C:/Users/Diego/Desktop/procesadormonociclo/ucontrol.vhd sub00/vhpl17 1476660419
+EN rf NULL C:/Users/Diego/Desktop/procesadormonociclo/rf.vhd sub00/vhpl06 1476660421
+EN mpc NULL "C:/Users/Diego/Desktop/Documentos ING sistemas Mario/7 semestre/Arquictetura de computadores/procesadormonociclo/mpc.vhd" sub00/vhpl00 1476053640
+AR rf rfield C:/Users/Diego/Desktop/procesadormonociclo/rf.vhd sub00/vhpl07 1476660422
+AR mux mux1 C:/Users/Diego/Desktop/procesadormonociclo/mux.vhd sub00/vhpl09 1476660424
+AR ucontrol behavioral12 C:/Users/Diego/Desktop/procesadormonociclo/ucontrol.vhd sub00/vhpl18 1476660420
+EN mux NULL C:/Users/Diego/Desktop/procesadormonociclo/mux.vhd sub00/vhpl08 1476660423
+EN memoinstru NULL C:/Users/Diego/Desktop/procesadormonociclo/memoinstru.vhd sub00/vhpl04 1476660417
+AR sumador behavioral1 C:/Users/Diego/Desktop/procesadormonociclo/sumador.vhd sub00/vhpl03 1476660414
+EN sumador NULL C:/Users/Diego/Desktop/procesadormonociclo/sumador.vhd sub00/vhpl02 1476660413
+AR alu alu1 C:/Users/Diego/Desktop/procesadormonociclo/alu.vhd sub00/vhpl15 1476660428
+AR procesador arq_procesador C:/Users/Diego/Desktop/procesadormonociclo/procesador.vhd sub00/vhpl19 1476660430
+EN alu NULL C:/Users/Diego/Desktop/procesadormonociclo/alu.vhd sub00/vhpl14 1476660427

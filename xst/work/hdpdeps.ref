@@ -1,0 +1,74 @@
+V3 49
+FL "C:/Users/Diego/Desktop/Documentos ING sistemas Mario/7 semestre/Arquictetura de computadores/procesadormonociclo/mpc.vhd" 2016/10/04.19:55:54 P.49d
+EN work/mpc 1476053640 \
+      FL "C:/Users/Diego/Desktop/Documentos ING sistemas Mario/7 semestre/Arquictetura de computadores/procesadormonociclo/mpc.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/mpc/Behavioral 1476053641 \
+      FL "C:/Users/Diego/Desktop/Documentos ING sistemas Mario/7 semestre/Arquictetura de computadores/procesadormonociclo/mpc.vhd" \
+      EN work/mpc 1476053640
+FL "C:/Users/Diego/Desktop/Documentos ING sistemas Mario/7 semestre/Arquictetura de computadores/procesadormonociclo/sumador.vhd" 2016/10/09.17:55:06 P.49d
+FL "C:/Users/Diego/Desktop/Documentos ING sistemas Mario/7 semestre/Arquictetura de computadores/procesadormonociclo/ucontrol.vhd" 2016/10/09.18:06:16 P.49d
+FL C:/Users/Diego/Desktop/procesadormonociclo/alu.vhd 2016/10/16.12:17:52 P.49d
+EN work/alu 1476660427 FL C:/Users/Diego/Desktop/procesadormonociclo/alu.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/alu/alu1 1476660428 \
+      FL C:/Users/Diego/Desktop/procesadormonociclo/alu.vhd EN work/alu 1476660427
+FL C:/Users/Diego/Desktop/procesadormonociclo/memoinstru.vhd 2016/10/16.18:24:05 P.49d
+EN work/memoinstru 1476660417 \
+      FL C:/Users/Diego/Desktop/procesadormonociclo/memoinstru.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179 \
+      PB std/TEXTIO 1381692176
+AR work/memoinstru/Behavioralmemo 1476660418 \
+      FL C:/Users/Diego/Desktop/procesadormonociclo/memoinstru.vhd \
+      EN work/memoinstru 1476660417
+FL C:/Users/Diego/Desktop/procesadormonociclo/mux.vhd 2016/10/13.19:33:47 P.49d
+EN work/mux 1476660423 FL C:/Users/Diego/Desktop/procesadormonociclo/mux.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/mux/mux1 1476660424 \
+      FL C:/Users/Diego/Desktop/procesadormonociclo/mux.vhd EN work/mux 1476660423
+FL C:/Users/Diego/Desktop/procesadormonociclo/pc.vhd 2016/10/16.11:42:04 P.49d
+EN work/pc 1476660415 FL C:/Users/Diego/Desktop/procesadormonociclo/pc.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/pc/pc1 1476660416 \
+      FL C:/Users/Diego/Desktop/procesadormonociclo/pc.vhd EN work/pc 1476660415
+FL C:/Users/Diego/Desktop/procesadormonociclo/procesador.vhd 2016/10/16.18:14:26 P.49d
+EN work/procesador 1476660429 \
+      FL C:/Users/Diego/Desktop/procesadormonociclo/procesador.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/procesador/arq_procesador 1476660430 \
+      FL C:/Users/Diego/Desktop/procesadormonociclo/procesador.vhd \
+      EN work/procesador 1476660429 CP sumador CP pc CP memoinstru CP ucontrol CP rf \
+      CP mux CP seu CP alu
+FL C:/Users/Diego/Desktop/procesadormonociclo/rf.vhd 2016/10/13.19:18:16 P.49d
+EN work/rf 1476660421 FL C:/Users/Diego/Desktop/procesadormonociclo/rf.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/rf/rfield 1476660422 \
+      FL C:/Users/Diego/Desktop/procesadormonociclo/rf.vhd EN work/rf 1476660421
+FL C:/Users/Diego/Desktop/procesadormonociclo/seu.vhd 2016/10/13.19:48:15 P.49d
+EN work/seu 1476660425 FL C:/Users/Diego/Desktop/procesadormonociclo/seu.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/seu/seu1 1476660426 \
+      FL C:/Users/Diego/Desktop/procesadormonociclo/seu.vhd EN work/seu 1476660425
+FL C:/Users/Diego/Desktop/procesadormonociclo/sumador.vhd 2016/10/10.18:51:36 P.49d
+EN work/sumador 1476660413 \
+      FL C:/Users/Diego/Desktop/procesadormonociclo/sumador.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/sumador/Behavioral1 1476660414 \
+      FL C:/Users/Diego/Desktop/procesadormonociclo/sumador.vhd EN work/sumador 1476660413
+FL C:/Users/Diego/Desktop/procesadormonociclo/ucontrol.vhd 2016/10/10.19:32:08 P.49d
+EN work/ucontrol 1476660419 \
+      FL C:/Users/Diego/Desktop/procesadormonociclo/ucontrol.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/ucontrol/Behavioral12 1476660420 \
+      FL C:/Users/Diego/Desktop/procesadormonociclo/ucontrol.vhd EN work/ucontrol 1476660419
+FL C:/Users/utp.CRIE/Desktop/procesadormonociclo/procesadormonociclo/memoinstru.vhd 2016/10/13.19:05:05 P.49d
+FL C:/Users/utp.CRIE/Desktop/procesadormonociclo/procesadormonociclo/mpc.vhd 2016/10/04.19:55:54 P.49d
+FL C:/Users/utp.CRIE/Desktop/procesadormonociclo/procesadormonociclo/mux.vhd 2016/10/13.19:33:47 P.49d
+FL C:/Users/utp.CRIE/Desktop/procesadormonociclo/procesadormonociclo/rf.vhd 2016/10/13.19:18:16 P.49d
+FL C:/Users/utp.CRIE/Desktop/procesadormonociclo/procesadormonociclo/seu.vhd 2016/10/13.19:48:15 P.49d
+FL C:/Users/utp.CRIE/Desktop/procesadormonociclo/procesadormonociclo/sumador.vhd 2016/10/10.18:51:36 P.49d
+FL C:/Users/utp/Desktop/procesadormonociclo/procesadormonociclo/ucontrol.vhd 2016/10/10.19:10:35 P.49d
+AR work/ucontrol/Behavioral2 -1 \
+      FL C:/Users/utp/Desktop/procesadormonociclo/procesadormonociclo/ucontrol.vhd \
+      EN work/ucontrol 1476660419
+FL C:/Users/utp/Desktop/Registro_1/procesadormonociclo/mpc.vhd 2016/09/26.19:52:42 P.49d

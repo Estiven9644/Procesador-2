@@ -1,0 +1,44 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to C:/Users/utp/Desktop/procesadormonociclo/procesadormonociclo/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.12 secs
+ 
+--> Parameter xsthdpdir set to C:/Users/utp/Desktop/procesadormonociclo/procesadormonociclo/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.12 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "C:/Users/utp/Desktop/procesadormonociclo/procesadormonociclo/ucontrol.vhd" in Library work.
+ERROR:HDLParsers:3312 - "C:/Users/utp/Desktop/procesadormonociclo/procesadormonociclo/ucontrol.vhd" Line 35. Undefined symbol 'O'.
+ERROR:HDLParsers:1209 - "C:/Users/utp/Desktop/procesadormonociclo/procesadormonociclo/ucontrol.vhd" Line 35. O: Undefined symbol (last report in this block)
+ERROR:HDLParsers:3010 - "C:/Users/utp/Desktop/procesadormonociclo/procesadormonociclo/ucontrol.vhd" Line 40. Entity ucontrol does not exist.
+ERROR:HDLParsers:3312 - "C:/Users/utp/Desktop/procesadormonociclo/procesadormonociclo/ucontrol.vhd" Line 43. Undefined symbol 'op'.
+ERROR:HDLParsers:1209 - "C:/Users/utp/Desktop/procesadormonociclo/procesadormonociclo/ucontrol.vhd" Line 43. op: Undefined symbol (last report in this block)
+ERROR:HDLParsers:3312 - "C:/Users/utp/Desktop/procesadormonociclo/procesadormonociclo/ucontrol.vhd" Line 43. Undefined symbol 'op3'.
+ERROR:HDLParsers:1209 - "C:/Users/utp/Desktop/procesadormonociclo/procesadormonociclo/ucontrol.vhd" Line 43. op3: Undefined symbol (last report in this block)
+ERROR:HDLParsers:808 - "C:/Users/utp/Desktop/procesadormonociclo/procesadormonociclo/ucontrol.vhd" Line 45. = can not have such operands in this context.
+ERROR:HDLParsers:3312 - "C:/Users/utp/Desktop/procesadormonociclo/procesadormonociclo/ucontrol.vhd" Line 49. Undefined symbol 'salida'.
+ERROR:HDLParsers:1209 - "C:/Users/utp/Desktop/procesadormonociclo/procesadormonociclo/ucontrol.vhd" Line 52. salida: Undefined symbol (last report in this block)
+WARNING:HDLParsers:1406 - "C:/Users/utp/Desktop/procesadormonociclo/procesadormonociclo/ucontrol.vhd" Line 43. No sensitivity list and no wait in the process
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.15 secs
+ 
+--> 
+
+Total memory usage is 212800 kilobytes
+
+Number of errors   :   10 (   0 filtered)
+Number of warnings :    2 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

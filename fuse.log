@@ -1,0 +1,40 @@
+Running: C:\Xilinx\14.4\ISE_DS\ISE\bin\nt\unwrapped\fuse.exe -intstyle ise -incremental -o C:/Users/Diego/Desktop/procesadormonociclo/tb_procesador_isim_beh.exe -prj C:/Users/Diego/Desktop/procesadormonociclo/tb_procesador_beh.prj work.tb_procesador 
+ISim P.49d (signature 0x8ef4fb42)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/Diego/Desktop/procesadormonociclo/ucontrol.vhd" into library work
+Parsing VHDL file "C:/Users/Diego/Desktop/procesadormonociclo/sumador.vhd" into library work
+Parsing VHDL file "C:/Users/Diego/Desktop/procesadormonociclo/seu.vhd" into library work
+Parsing VHDL file "C:/Users/Diego/Desktop/procesadormonociclo/rf.vhd" into library work
+Parsing VHDL file "C:/Users/Diego/Desktop/procesadormonociclo/pc.vhd" into library work
+Parsing VHDL file "C:/Users/Diego/Desktop/procesadormonociclo/mux.vhd" into library work
+Parsing VHDL file "C:/Users/Diego/Desktop/procesadormonociclo/memoinstru.vhd" into library work
+Parsing VHDL file "C:/Users/Diego/Desktop/procesadormonociclo/alu.vhd" into library work
+Parsing VHDL file "C:/Users/Diego/Desktop/procesadormonociclo/procesador.vhd" into library work
+Parsing VHDL file "C:/Users/Diego/Desktop/procesadormonociclo/tb_procesador.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 122576 KB
+Fuse CPU Usage: 358 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling package textio
+Compiling architecture behavioral1 of entity sumador [sumador_default]
+Compiling architecture pc1 of entity pc [pc_default]
+Compiling architecture behavioralmemo of entity memoinstru [memoinstru_default]
+Compiling architecture behavioral12 of entity ucontrol [ucontrol_default]
+Compiling architecture rfield of entity rf [rf_default]
+Compiling architecture mux1 of entity mux [mux_default]
+Compiling architecture seu1 of entity seu [seu_default]
+Compiling architecture alu1 of entity alu [alu_default]
+Compiling architecture arq_procesador of entity procesador [procesador_default]
+Compiling architecture behavior of entity tb_procesador
+Time Resolution for simulation is 1ps.
+Waiting for 6 sub-compilation(s) to finish...
+Compiled 24 VHDL Units
+Built simulation executable C:/Users/Diego/Desktop/procesadormonociclo/tb_procesador_isim_beh.exe
+Fuse Memory Usage: 141824 KB
+Fuse CPU Usage: 842 ms

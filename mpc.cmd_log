@@ -1,0 +1,21 @@
+xst -intstyle ise -ifn "C:/Users/utp/Desktop/Registro_1/procesadormonociclo/mpc.xst" -ofn "C:/Users/utp/Desktop/Registro_1/procesadormonociclo/mpc.syr" 
+xst -intstyle ise -ifn "C:/Users/utp/Desktop/Registro_1/procesadormonociclo/mpc.xst" -ofn "C:/Users/utp/Desktop/Registro_1/procesadormonociclo/mpc.syr" 
+xst -intstyle ise -ifn "C:/Users/utp/Desktop/Registro_1/procesadormonociclo/mpc.xst" -ofn "C:/Users/utp/Desktop/Registro_1/procesadormonociclo/mpc.syr" 
+xst -intstyle ise -ifn "C:/Users/utp/Desktop/Registro_1/procesadormonociclo/mpc.xst" -ofn "C:/Users/utp/Desktop/Registro_1/procesadormonociclo/mpc.syr" 
+xst -intstyle ise -ifn "C:/Users/utp/Desktop/Registro_1/procesadormonociclo/mpc.xst" -ofn "C:/Users/utp/Desktop/Registro_1/procesadormonociclo/mpc.syr" 
+xst -intstyle ise -ifn "C:/Users/utp/Desktop/Registro_1/procesadormonociclo/mpc.xst" -ofn "C:/Users/utp/Desktop/Registro_1/procesadormonociclo/mpc.syr" 
+xst -intstyle ise -ifn "C:/Users/utp/Desktop/Registro_1/procesadormonociclo/mpc.xst" -ofn "C:/Users/utp/Desktop/Registro_1/procesadormonociclo/mpc.syr" 
+xst -intstyle ise -ifn "C:/Users/utp/Desktop/Registro_1/procesadormonociclo/mpc.xst" -ofn "C:/Users/utp/Desktop/Registro_1/procesadormonociclo/mpc.syr" 
+xst -intstyle ise -ifn "C:/Users/utp/Desktop/Registro_1/procesadormonociclo/mpc.xst" -ofn "C:/Users/utp/Desktop/Registro_1/procesadormonociclo/mpc.syr" 
+xst -intstyle ise -ifn "C:/Users/utp/Desktop/Registro_1/procesadormonociclo/mpc.xst" -ofn "C:/Users/utp/Desktop/Registro_1/procesadormonociclo/mpc.syr" 
+xst -intstyle ise -ifn "C:/Users/utp/Desktop/Registro_1/procesadormonociclo/mpc.xst" -ofn "C:/Users/utp/Desktop/Registro_1/procesadormonociclo/mpc.syr" 
+xst -intstyle ise -ifn "C:/Users/utp/Desktop/Registro_1/procesadormonociclo/mpc.xst" -ofn "C:/Users/utp/Desktop/Registro_1/procesadormonociclo/mpc.syr" 
+xst -intstyle ise -ifn "C:/Users/utp.CRIE/Desktop/procesadormonociclo/procesadormonociclo/mpc.xst" -ofn "C:/Users/utp.CRIE/Desktop/procesadormonociclo/procesadormonociclo/mpc.syr" 
+xst -intstyle ise -ifn "C:/Users/utp.CRIE/Desktop/procesadormonociclo/procesadormonociclo/mpc.xst" -ofn "C:/Users/utp.CRIE/Desktop/procesadormonociclo/procesadormonociclo/mpc.syr" 
+xst -intstyle ise -ifn "C:/Users/utp.CRIE/Desktop/procesadormonociclo/procesadormonociclo/mpc.xst" -ofn "C:/Users/utp.CRIE/Desktop/procesadormonociclo/procesadormonociclo/mpc.syr" 
+xst -intstyle ise -ifn "C:/Users/utp.CRIE/Desktop/procesadormonociclo/procesadormonociclo/mpc.xst" -ofn "C:/Users/utp.CRIE/Desktop/procesadormonociclo/procesadormonociclo/mpc.syr" 
+xst -intstyle ise -ifn "C:/Users/Diego/Desktop/Documentos ING sistemas Mario/7 semestre/Arquictetura de computadores/procesadormonociclo/mpc.xst" -ofn "C:/Users/Diego/Desktop/Documentos ING sistemas Mario/7 semestre/Arquictetura de computadores/procesadormonociclo/mpc.syr" 
+xst -intstyle ise -ifn "C:/Users/Diego/Desktop/Documentos ING sistemas Mario/7 semestre/Arquictetura de computadores/procesadormonociclo/mpc.xst" -ofn "C:/Users/Diego/Desktop/Documentos ING sistemas Mario/7 semestre/Arquictetura de computadores/procesadormonociclo/mpc.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-5 "mpc.ngc" mpc.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o mpc_map.ncd mpc.ngd mpc.pcf 
+vhdtdtfi -prj procesadormonociclo -o C:/Users/Diego/Desktop/procesadormonociclo/mpc.vhi -module mpc -template C:/Xilinx/14.4/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work mpc.vhd 

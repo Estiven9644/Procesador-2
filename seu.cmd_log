@@ -1,0 +1,2 @@
+vhdtdtfi -prj procesadormonociclo -o C:/Users/Diego/Desktop/procesadormonociclo/seu.vhi -module seu -template C:/Xilinx/14.4/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work seu.vhd 
+vhdtdtfi -prj procesadormonociclo -o C:/Users/Diego/Desktop/procesadormonociclo/seu.vhi -module seu -template C:/Xilinx/14.4/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work seu.vhd 
